@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I am currently working on ABAP Cloud data models built with ABAP Dictionary objects and CDS views, following SAP’s Clean Core principles. I am also developing a secure relational database for an institutional records-management application, with a focus on schema design, data integrity, and normalization.<br><br>👯 I am looking to collaborate on two fronts: data science and analytics projects covering exploratory analysis, forecasting, and applied machine learning, and SAP ABAP Cloud development covering data modeling, CDS views, and Clean Core-aligned design.<br><br>🤝 I am looking for guidance on deploying machine learning models into production environments, and on building RAP-based applications on top of CDS views.<br><br>🌱 I am currently learning the ABAP RESTful Application Programming Model (RAP), MLOps fundamentals, and transformer-based approaches to text classification.<br><br>💬 Ask me about exploratory analysis of HR attrition data, selecting between ARIMA and SARIMAX for forecasting, translating business requirements into database schemas, building dashboards in Tableau, or preparing for the SAP Certified Back-End Developer (ABAP Cloud) exam, which I passed with a score of 88.89%.<br><br>⚡ Fun fact: I was recognized as one of the best Tableau performers in a university competition, and I am also a debate champion and a state-level creative writing champion. That background is why my analyses conclude with a clear recommendation, not just a chart.
 
-<!--
-**yogesh-kr-dubey/yogesh-kr-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yogesh-kumar-dubey-498620355) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshdubey0007@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yogesh-kr-dubey&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yogesh-kr-dubey&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogesh-kr-dubey&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
